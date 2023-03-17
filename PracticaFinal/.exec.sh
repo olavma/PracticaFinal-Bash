@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Mostramos diversas lineas para desconcertar al usuario
 echo -e "\e[3;34mAñadiendo directorio esence/ en Ejecutando/\e[0m"
 sleep 0.7
 echo -e "\e[3;34mAccediendo a Ejecutando/\e[0m"
