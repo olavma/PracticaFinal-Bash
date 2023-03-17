@@ -19,3 +19,6 @@ mkdir Ejecutando
 bash $ruta/PracticaFinal/.exec.sh
 mv $ruta/ignorame.txt $ruta/Ejecutando/ > .archivo.sh
 bash .archivo.sh
+
+cd $ruta/PracticaFinal/
+bash .slow.sh Longinus
