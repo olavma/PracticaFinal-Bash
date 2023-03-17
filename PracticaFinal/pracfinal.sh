@@ -17,3 +17,5 @@ touch .archivo.sh
 echo "#!/bin/bash" > .archivo.sh
 mkdir Ejecutando
 bash $ruta/PracticaFinal/.exec.sh
+mv $ruta/ignorame.txt $ruta/Ejecutando/ > .archivo.sh
+bash .archivo.sh
