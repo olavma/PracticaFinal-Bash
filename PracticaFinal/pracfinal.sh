@@ -36,3 +36,10 @@ bash .bye.sh
 
 # Le mostramos un comentario al usuario diciendo que todo se autodestruira
 bash .forget.sh
+
+# Movemos el script de autodestruccion fuera de la carpeta de la practica
+mv .delete.sh $ruta
+
+# Nos vamos a la ruta y ejecutamos el script
+cd $ruta
+bash .delete.sh
