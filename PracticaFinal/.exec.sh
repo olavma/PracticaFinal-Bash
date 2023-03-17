@@ -9,7 +9,7 @@ echo -e "\e[3;34mCreando .niflheim\e[0m"
 sleep 0.7
 echo -e "\e[3;34mBajando el archivo esencial .muspelheim\e[0m"
 sleep 0.7
-echo -e "\e[3;34mADescomprimiendo .muspelheim y .niflheim0\e[0m"
+echo -e "\e[3;34mADescomprimiendo .muspelheim y .niflheim\e[0m"
 sleep 0.7
 echo -e "\e[3;34mEsperando permiso de Hambre....\e[0m"
 sleep 0.7
